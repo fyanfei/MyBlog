@@ -13,7 +13,7 @@ const state = {
     clientSecret: '6cfddd1814510dfec7490c69c551f97669b5b158'  // 改成你在 https://github.com/settings/applications/new 新建的 OAuth application 的 Client Secret
   },
   gitHubUser: null,  // 这个不要修改，这个不要修改，这个不要修改。
-  gitHubUsername: 'hippo00',  // 修改成你自己的 GitHub 账号
+  gitHubUsername: 'fyanfei',  // 修改成你自己的 GitHub 账号
   copyright: '迎风追落叶',  // 修改成你自己的
   recordNumber: 'null',  // 修改成你自己的备案编号，如果没有备案的话就设置为 null
   repo: 'hippo00/blog',  // 记录 Issue 的仓库的全名「用户名/仓库名」
