@@ -19,7 +19,7 @@
     "highlight.js": "^9.12.0",
     "lodash": "^4.17.4",
     "marked": "^0.6.2",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "package-name": "^0.1.0",
     "vue": "^2.3.4",
     "vue-router": "^2.3.1",
